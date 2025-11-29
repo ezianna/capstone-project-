@@ -1,15 +1,13 @@
-# 📊 Customer Churn Analysis & UI/UX Design (UAS IMK)
+# 📊 Customer Churn Analysis 
 
-Project ini dibuat untuk memenuhi Ujian Akhir Semester (UAS) mata kuliah **Interaksi Manusia dan Komputer (IMK)**.  
-Kami melakukan analisis data customer churn serta membuat rancangan antarmuka berdasarkan prinsip-prinsip IMK.
+Project ini dibuat untuk memenuhi Ujian Akhir Semester (UAS) mata kuliah Praktik Aplikasi web  
+Kami melakukan analisis data customer churn 
 
 ---
 
 ## 🚀 **Tujuan Project**
 1. Melakukan analisis data pelanggan untuk memahami faktor-faktor yang memengaruhi *churn*.
 2. Membangun visualisasi data untuk melihat pola perilaku pelanggan.
-3. Merancang alur dan antarmuka pengguna (UI) berdasarkan prinsip IMK seperti konsistensi, feedback, visibility, dan efisiensi.
-4. Menyusun prototype alur aplikasi yang lebih ramah pengguna.
 
 ---
 
@@ -21,7 +19,6 @@ Kami melakukan analisis data customer churn serta membuat rancangan antarmuka be
   - Analisis churn
   - Preprocessing data
   - Pembangunan dan evaluasi model
-  - Perancangan UI dan penerapan prinsip IMK
 
 - `dataset/` → Berisi data yang digunakan (jika disertakan).
 
@@ -44,19 +41,6 @@ Notebook menyajikan beberapa proses penting:
 - Model Machine Learning sederhana untuk memprediksi churn
 
 Setiap bagian disertai visualisasi untuk memudahkan pemahaman pola perilaku pelanggan.
-
----
-
-## 🧩 **Penerapan Prinsip IMK**
-Dalam project ini, kami menerapkan prinsip-prinsip IMK pada desain antarmuka:
-- **Consistency**: Penempatan tombol dan struktur layout seragam.
-- **Feedback**: Sistem memberikan tanda ketika input berhasil atau gagal.
-- **Visibility**: Informasi penting ditampilkan pada halaman utama.
-- **Error Prevention**: Pengguna dibantu dengan validasi form.
-- **Simplicity**: Antarmuka dibuat minimalis dengan navigasi yang jelas.
-- **Learnability**: Pengguna baru dapat belajar fitur dengan cepat.
-
-Prototype / alur antarmuka ditampilkan dan dijelaskan di dalam notebook.
 
 ---
 
